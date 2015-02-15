@@ -14,7 +14,7 @@ describe('Binary Search to traverse an ordered list, effectively', function() {
       }
     });
 
-      it('should create an array from 2 to 40, with intervals of 2', function() {
+    it('should create an array from 2 to 40, with intervals of 2', function() {
       twoToForty = [].toForty();
       expect(twoToForty[0]).toBe(2);
       expect(twoToForty[19]).toBe(40);
