@@ -1,14 +1,3 @@
-## Instructions
-
-+ Clone the repository
-+ Run **index.html** in the repository folder to see the currently failing test specs you are to pass
-+ Open **js\binary-search.js** and write the function(s) or lines of code to pass the tests
-+ You could run **index.html** intermittently to see the status of test specs.
-
-Prior understanding of Javascript classes are required. Prototyping of the Array class will be required to complete this exercise.
-
-
-
 #Binary Search
 
 Firstly you are to create three functions, as prototypes to the Array class to return the following:
@@ -31,7 +20,18 @@ Once you are done, create another prototyped function called `search`, it will t
 The `.search` function should implement the binary search algorithm, each time you iterate, you should increase the `count`, to test how efficient your implementation is.
 
 
+## How to Run this Lab
+
++ Clone the repository
++ Open **index.html** in your browser to see the currently failing test specs you are to pass
++ Open the repository in your favorite text editor to explore the different files
++ Open **js\binary-search.js** and write the function(s) or lines of code to pass the tests
++ You could refresh **index.html** in your browser intermittently to see the status of test specs.
+
+
 ##Notes
+
++ Prior understanding of Javascript classes are required. Prototyping of the Array class will be required to complete this exercise.
 
 + Remember that passing code is just the first step. The goal is to work towards a solution that is as readable and expressive as you can make
 it.
